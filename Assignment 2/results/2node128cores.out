@@ -1,0 +1,24 @@
+--------------------------------------------------------------------------
+WARNING: An invalid value was given for btl_tcp_if_include.  This
+value will be ignored.
+
+  Local host: modi000
+  Value:      10.20.40.0/16
+  Message:    Did not find interface matching this subnet
+--------------------------------------------------------------------------
+[modi000.science:57146] 31 more processes have sent help message help-mpi-btl-tcp.txt / invalid if_inexclude
+[modi000.science:57146] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
+Best accuracy obtained :0.736744
+Final cuts :
+averageInteractionsPerCrossing : 42.6024
+                        p_Rhad : 0.0466414
+                       p_Rhad1 : 0.0296093
+           p_TRTTrackOccupancy : 0.474643
+                p_topoetcone40 : 5.33589
+            p_eTileGap3Cluster : 0.332421
+                  p_phiModCalo : -1.20942e-06
+                  p_etaModCalo : 0.0125342
+
+Number of settings:    65536
+Elapsed time      :    7.589
+task time [mus]   :    115.8
